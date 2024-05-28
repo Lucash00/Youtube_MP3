@@ -1,0 +1,4 @@
+pygame
+moviepy
+pytube
+Pillow
